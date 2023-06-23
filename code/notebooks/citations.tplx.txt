@@ -1,0 +1,6 @@
+((*- extends 'article.tplx' -*))
+
+((* block bibliography *))
+\bibliographystyle{plain}
+\bibliography{bibliography}
+((* endblock bibliography *))
