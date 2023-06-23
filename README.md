@@ -10,7 +10,8 @@ Having "square shoulders" so that one is in a position to collect a penetrating 
 "Stopping the penetrator" close to the line of scrimmage so that the looper has a farther path to the QB.
 Like many coaching philosophies, these arise from countless hours of film study, deliberate practice and demonstrated results. Here, tracking data and modern modeling techniques will allow us to not only determine how much each matters in defeating stunts but also bring to light other metrics not previously considered. We conclude by discussing how our findings and modeling generally can be applied in gameplan, practice and player evaluation settings.
 
-To generate competition data and pre-processing, run "code/scripts/top_level_2v2.py".
-To generate all csv data used for project individual notebooks must be run to completion in "code/notebooks".
-To generate stunt dot gifs for all stunts, run "code/scripts/get_stunt_dots.py".
-Exploration, modeling and results can be viewed and tinkered with using Jupyter notebooks in "code/notebooks"
+To generate competition data and pre-processing, run "code/scripts/top_level_2v2.py".\
+To generate all csv data used for project individual notebooks must be run to completion in "code/notebooks".\
+To generate stunt dot gifs for all stunts, run "code/scripts/get_stunt_dots.py".\
+Exploration, modeling and results can be viewed and tinkered with using Jupyter notebooks in "code/notebooks"\
+Full project article can be found at "code/notebooks/stunt-hunting-and-stunt-busting.html"
