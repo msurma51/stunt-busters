@@ -10,9 +10,9 @@ Pass rush stunts have long been used as a tactic to generate pressure on the opp
 
 ## Resources and Replication Info
 **Python Version**: 3.11.2\
-**Data Analysis**: numpy, pandas
-**Statistical Testing**: scipy, statsmodels
-**Data Visualization**: matplotlib, seaborn 
+**Data Analysis**: numpy, pandas\
+**Statistical Testing**: scipy, statsmodels\
+**Data Visualization**: matplotlib, seaborn\ 
 **Modeling**: sklearn, xgboost, torch, lassonet
 
 To generate competition data and pre-processing, run "code/scripts/top_level_2v2.py".\
