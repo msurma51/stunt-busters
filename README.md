@@ -19,5 +19,5 @@ To generate competition data and pre-processing, run "code/scripts/top_level_2v2
 To generate all csv data used for project individual notebooks must be run to completion in "code/notebooks".\
 To generate stunt dot gifs for all stunts, run "code/scripts/get_stunt_dots.py".\
 Exploration, modeling and results can be viewed and tinkered with using Jupyter notebooks in "code/notebooks"\
-Full project article can be read [here](https://msurma51.github.io/stunt-busters/) and found in "docs/index.html"
+Full project article can be read [here](https://msurma51.github.io/stunt-busters/) and found in "docs/index.html"\
 Abridged article can be found [here](https://www.kaggle.com/code/lwwiley17/stunt-hunting-and-stunt-busting)
